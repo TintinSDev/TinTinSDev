@@ -9,7 +9,6 @@ I am **Martin**  or✨ TintinSDev✨ as per my github profile
 
 
 ### Socials
-https://github.com/TintinSDev#-socials
 ![image](https://github.com/TintinSDev/TinTinSDev/assets/69876670/99450d0d-02e2-406a-9a00-af25bcae25a7)
 
 
