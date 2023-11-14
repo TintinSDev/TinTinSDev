@@ -10,5 +10,7 @@ I am **Martin**  or✨ TintinSDev✨ as per my github profile
 
 ### Socials
 
+
 ### Languages
+HTML5 Javascript CSS React Python npm
 
