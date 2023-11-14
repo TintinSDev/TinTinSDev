@@ -12,5 +12,6 @@ I am **Martin**  or✨ TintinSDev✨ as per my github profile
 
 
 ### Languages
-HTML5 Javascript CSS React Python npm
+![image](https://github.com/TintinSDev/TinTinSDev/assets/69876670/bfd44982-4f24-408b-852f-3f88bb95c9c8)
+Javascript CSS React Python npm
 
