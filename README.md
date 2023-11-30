@@ -11,6 +11,7 @@ I am a Full✨ Stack Developer ✨ from Nairobi, Kenya.
 ### Socials
 ![image](https://github.com/TintinSDev/TinTinSDev/assets/69876670/99450d0d-02e2-406a-9a00-af25bcae25a7)
 https://www.linkedin.com/in/mainamartin/
+![image](https://github.com/TintinSDev/TinTinSDev/assets/69876670/359629a7-8ce1-4182-a678-c4d752fc5115)
 
 
 ### Languages
