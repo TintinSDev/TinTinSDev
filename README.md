@@ -9,21 +9,26 @@ I am a Front✨End Developer ✨ from Nairobi, Kenya.
 
 
 ### Socials
-![image](https://github.com/TintinSDev/TinTinSDev/assets/69876670/99450d0d-02e2-406a-9a00-af25bcae25a7/linkedin.com/in/mainamartin/)
-[Martin Maina](https://www.linkedin.com/in/mainamartin/)
+- LinkedIn [Martin Maina](https://www.linkedin.com/in/mainamartin/)
 
 
 
-### Languages
+### Languages and FrameWorks
 ![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Javascript-ffe599?logo=javascript&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-HTML5-ffe599?logo=HTML5&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-CSS3-ffe599?logo=CSS&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-Figma-ffe599?logo=figma&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-NodeJs-ffe599?logo=node&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-Figma-ffe599?logo=figma&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-Python-ffe599?logo=Python&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-MySQL-ffe599?logo=MySQL&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-HTML5-fb8261?logo=HTML5&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-CSS3-16c9f9?logo=CSS&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Figma-ffbf00?logo=figma&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Node.Js-2be343?logo=node.js&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Postman-fefa817?logo=postman&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Python-1798f2?logo=Python&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-MySQL-1798f2?logo=MySQL&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-npm-071016?logo=npm&logoColor=white&style=plastic)
+
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TintinSDev&theme=transparent&dark_icons=true)
+                  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TintinSDev&layout=compact)
+
 
 
 
