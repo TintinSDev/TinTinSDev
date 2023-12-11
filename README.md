@@ -10,7 +10,7 @@ I am a Front✨End Developer ✨ from Nairobi, Kenya.
 
 ### Socials
 ![image](https://github.com/TintinSDev/TinTinSDev/assets/69876670/99450d0d-02e2-406a-9a00-af25bcae25a7/linkedin.com/in/mainamartin/)
-https://www.linkedin.com/in/mainamartin/
+[Martin Maina]{https://www.linkedin.com/in/mainamartin/}
 
 
 
