@@ -17,6 +17,10 @@ I am a Front✨End Developer ✨ from Nairobi, Kenya.
 ### Languages
 ![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Javascript-ffe599?logo=javascript&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-HTMLS5-ffe599?logo=HTML5&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Javascript-ffe599?logo=javascript&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Javascript-ffe599?logo=javascript&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Javascript-ffe599?logo=javascript&logoColor=white&style=plastic)
 
 
 
