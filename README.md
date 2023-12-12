@@ -6,7 +6,7 @@ I am a Front✨End Developer ✨ from Nairobi, Kenya.
 
 ## About Me:
 - 🔭 I’m currently working on becoming a full stack software developer
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning ReactJs
 
 
 ## Socials
