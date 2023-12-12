@@ -22,6 +22,7 @@ I am a Front✨End Developer ✨ from Nairobi, Kenya.
 ![image](https://img.shields.io/badge/-Figma-ffbf00?logo=figma&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Node.Js-2be343?logo=node.js&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Postman-fefa817?logo=postman&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-C-ffbf00?logo=C&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Python-1798f2?logo=Python&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-MySQL-1798f2?logo=MySQL&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-npm-071016?logo=npm&logoColor=white&style=plastic)
