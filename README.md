@@ -3,17 +3,18 @@
 
 
 I am a Front✨End Developer ✨ from Nairobi, Kenya.
-###About Me:
+
+## About Me:
 - 🔭 I’m currently working on becoming a full stack software developer
 - 🌱 I’m currently learning react
 
 
-### Socials
+## Socials
 - LinkedIn [Martin Maina](https://www.linkedin.com/in/mainamartin/)
 
 
 
-### Languages and FrameWorks
+## Languages and FrameWorks
 ![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Javascript-ffe599?logo=javascript&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-HTML5-fb8261?logo=HTML5&logoColor=white&style=plastic)
