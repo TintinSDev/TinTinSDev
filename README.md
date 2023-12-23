@@ -10,7 +10,8 @@ I am a Front✨End Developer ✨ from Nairobi, Kenya.
 
 
 ## Socials
-- LinkedIn [Martin Maina](https://www.linkedin.com/in/mainamartin/)
+- LinkedIn <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mainamartin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/mainamartin?trk=profile-badge">Martin M.</a></div>
+              
 
 
 
