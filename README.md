@@ -8,7 +8,7 @@ I am a Front✨End Developer ✨ from Nairobi, Kenya.
 - 🔭 I’m currently working on becoming a full stack software developer
 - 🌱 I’m currently learning Python and SQL
 
-##Projects
+## Projects:
 https://tintinsdev.github.io/Personal-Portfolio-Website/
 ## Socials
 - LinkedIn <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mainamartin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/mainamartin?trk=profile-badge">Martin M.</a></div>
