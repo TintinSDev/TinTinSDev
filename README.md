@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-
-
-I am a Front✨End Developer ✨ from Nairobi, Kenya.
+Full-Stack Developer here.
 
 ## About Me:
-- 🔭 I’m currently working on becoming a full stack software developer
-- 🌱 I’m currently learning Python and SQL
+- 🔭 Results-driven professional Dev with expertise in JavaScript, React library, Python, SQL database and Django framework.
+- 🔭 Proven track record of creating robust and scalable web applications. Adept at collaborating with cross-functional teams to deliver high-quality solutions. 
+- 🌱 Passionate about staying current with industry trends and leveraging technology to solve complex problems.
+
 
 ## Projects:
 https://tintinsdev.github.io/Personal-Portfolio-Website/
@@ -23,7 +23,8 @@ https://tintinsdev.github.io/Personal-Portfolio-Website/
 ![image](https://img.shields.io/badge/-PyCharm-bfee90?logo=PyCharm&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Python-00cc00?logo=Python&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-DJANGO-681a1a?logo=DJANGO&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-SQL-1798f2?logo=SQL&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-SQL-1798f2?logo=sqlite&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Pytest-1798f2?logo=PYTEST&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-HTML5-fb8261?logo=HTML5&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-CSS3-16c9f9?logo=CSS&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Figma-400080?logo=figma&logoColor=white&style=plastic)
