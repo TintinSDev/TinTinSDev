@@ -16,13 +16,14 @@ https://tintinsdev.github.io/Personal-Portfolio-Website/
 
 
 
-## Languages and FrameWorks
+## Languages, FrameWorks, Libraries & Technologies
 ![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Javascript-ffbf00?logo=javascript&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Vscode-0080ff?logo=VisualStudioCode&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-PyCharm-bfee90?logo=PyCharm&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Python-00cc00?logo=Python&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-DJANGO-681a1a?logo=DJANGO&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Flask-ff8000?logo=Flask&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-SQL-1798f2?logo=sqlite&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Pytest-1798f2?logo=PYTEST&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-HTML5-fb8261?logo=HTML5&logoColor=white&style=plastic)
@@ -31,6 +32,8 @@ https://tintinsdev.github.io/Personal-Portfolio-Website/
 ![image](https://img.shields.io/badge/-Node.Js-2be343?logo=node.js&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Postman-ff8000?logo=postman&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-npm-071016?logo=npm&logoColor=white&style=plastic)
+
+
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TintinSDev&theme=transparent&dark_icons=true)              
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TintinSDev&layout=compact)
 
