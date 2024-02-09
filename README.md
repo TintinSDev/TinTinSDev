@@ -18,13 +18,13 @@ https://tintinsdev.github.io/Personal-Portfolio-Website/
 
 ## Languages, FrameWorks, Libraries & Technologies
 ![image](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-Javascript-ffbf00?logo=javascript&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-Javascript-ffbfqlite3-db00?logo=JavaScript&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Vscode-0080ff?logo=VisualStudioCode&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-PyCharm-bfee90?logo=PyCharm&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Python-00cc00?logo=Python&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-DJANGO-681a1a?logo=DJANGO&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Flask-ff8000?logo=Flask&logoColor=white&style=plastic)
-![image](https://img.shields.io/badge/-SQL-1798f2?logo=sqlite&logoColor=white&style=plastic)
+![image](https://img.shields.io/badge/-MySQL-1798f2?logo=MySQL&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-Pytest-1798f2?logo=PYTEST&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-HTML5-fb8261?logo=HTML5&logoColor=white&style=plastic)
 ![image](https://img.shields.io/badge/-CSS3-16c9f9?logo=CSS&logoColor=white&style=plastic)
