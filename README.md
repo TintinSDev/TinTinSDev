@@ -3,7 +3,7 @@
 Full-Stack Developer here.
 
 ## About Me:
-- 🔭 Results-driven professional Dev with expertise in JavaScript, React library, Python, SQL database and Django framework.
+- 🔭 Results-driven professional Dev with expertise in JavaScript, React library, Python, MySQL database and Django framework.
 - 🔭 Proven track record of creating robust and scalable web applications. Adept at collaborating with cross-functional teams to deliver high-quality solutions. 
 - 🌱 Passionate about staying current with industry trends and leveraging technology to solve complex problems.
 
