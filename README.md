@@ -1,7 +1,7 @@
 ### Hi there 👋
 Full-Stack Developer here.
 
-<a href="https://app.daily.dev/martinmaina"><img src="https://api.daily.dev/devcards/v2/suD7rAtvCyisw3y8kB515.png?type=wide&r=7s3" width="652" alt="Martin Maina's Dev Card"/></a>
+<a href="https://app.daily.dev/martinmaina"><img src="https://api.daily.dev/devcards/v2/suD7rAtvCyisw3y8kB515.png?type=default&r=7s3" width="356" alt="Martin Maina's Dev Card"/></a>
 ## About Me:
 - 🔭 Results-driven professional Dev with expertise in JavaScript, React library, Python, MySQL database and Django framework.
 - 🔭 Proven track record of creating robust and scalable web applications. Adept at collaborating with cross-functional teams to deliver high-quality solutions. 
