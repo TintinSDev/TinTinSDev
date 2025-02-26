@@ -10,7 +10,8 @@
 
 
 - I work on DevOps, Microservices, containers, and everything around it.
-- I’m looking to collaborate on **Cloud-native Projects**
+- Currently polishing on Golang
+- I’m looking to collaborate on **DevSecOps and Cloud-native Projects**
 
 
 
