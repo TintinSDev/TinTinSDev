@@ -47,6 +47,29 @@
 </p>
 <br/>
 
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TintinSDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TintinSDev&theme=github-dark-blue"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TintinSDev&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TintinSDev&theme=github-dark"/>
+
+</p>
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 1rem;"> 
     <a href="https://x.com/Sir_Mrtn?t=e7Foxwg4VGVJRCWCTIAdzg&s=09" target="_blank" rel="noopener noreferrer">
         <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -63,16 +86,6 @@
   
 </div>
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TintinSDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TintinSDev&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TintinSDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="" />
-</p>
-
-
 
 <p align="right">
 <a href="#top">
