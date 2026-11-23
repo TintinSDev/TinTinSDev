@@ -25,7 +25,9 @@
 
 <details>
     <summary>Recently played</summary>
-    <a href="[https://open.spotify.com/user/31ft7wmwwoqjh3hkw2adqbdfwob4](https://open.spotify.com/user/31ft7wmwwoqjh3hkw2adqbdfwob4?si=8651dc18037d4691)"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31ft7wmwwoqjh3hkw2adqbdfwob4&unique=true&count=5" alt="Spotify recently played"></a>
+    <a href="https://open.spotify.com/user/31ft7wmwwoqjh3hkw2adqbdfwob4">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ft7wmwwoqjh3hkw2adqbdfwob4&amp;count=10&amp;unique=1&amp;duration=1&amp;album=1" alt="Spotify recently played" width="400" />
+</a>
 </details>
 
 </div>
